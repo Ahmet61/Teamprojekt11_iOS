@@ -17,6 +17,7 @@
 		E35AB5CD238C1A0700920417 /* Teamprojekt11UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35AB5CC238C1A0700920417 /* Teamprojekt11UITests.swift */; };
 		E35AB5DB238C1E2E00920417 /* ViewControllerFerngesteuertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35AB5DA238C1E2E00920417 /* ViewControllerFerngesteuertViewController.swift */; };
 		E35AB5DD238C21CA00920417 /* Autonomer Modus.swift in Sources */ = {isa = PBXBuildFile; fileRef = E35AB5DC238C21CA00920417 /* Autonomer Modus.swift */; };
+		E3832C1C2392BE5E00F4C01F /* Einstellungen.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3832C1B2392BE5E00F4C01F /* Einstellungen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		E35AB5CE238C1A0700920417 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E35AB5DA238C1E2E00920417 /* ViewControllerFerngesteuertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerFerngesteuertViewController.swift; sourceTree = "<group>"; };
 		E35AB5DC238C21CA00920417 /* Autonomer Modus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Autonomer Modus.swift"; sourceTree = "<group>"; };
+		E3832C1B2392BE5E00F4C01F /* Einstellungen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Einstellungen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				E35AB5B3238C1A0600920417 /* Assets.xcassets */,
 				E35AB5B5238C1A0600920417 /* LaunchScreen.storyboard */,
 				E35AB5B8238C1A0600920417 /* Info.plist */,
+				E3832C1B2392BE5E00F4C01F /* Einstellungen.swift */,
 			);
 			path = Teamprojekt11;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 				E35AB5DD238C21CA00920417 /* Autonomer Modus.swift in Sources */,
 				E35AB5AD238C1A0400920417 /* SceneDelegate.swift in Sources */,
 				E35AB5DB238C1E2E00920417 /* ViewControllerFerngesteuertViewController.swift in Sources */,
+				E3832C1C2392BE5E00F4C01F /* Einstellungen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
